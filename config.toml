@@ -1,0 +1,5 @@
+baseURL = "https://blog.ceto.xyz"
+CanonifyUrl = true
+languageCode = "en-us"
+title = "Erik Goodman's Ceto.xyz"
+theme = "ananke"
