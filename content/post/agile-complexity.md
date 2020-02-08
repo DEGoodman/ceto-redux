@@ -1,8 +1,8 @@
----
-title: "Complexity and the Art of Story Pointing"
-date: 2020-02-02T18:42:44-07:00
-draft: true
----
++++
+title = "Complexity and the Art of Story Pointing"
+date = "2020-02-02T18:42:44-07:00"
+author = "Erik Goodman"
++++
 
 # The Murky Waters of Consensus
 
@@ -135,9 +135,10 @@ discussions around predicatability and accuracy begin.
 
 
 # Further Information
-Explain xkcd 936: Password Strength https://www.explainxkcd.com/wiki/index.php/936:_Password_Strength
-Entropy (information theory): https://en.wikipedia.org/wiki/Entropy_(information_theory)
-The Information by James Gleick: https://www.goodreads.com/book/show/8701960-the-information
+
+- Explain xkcd 936: Password Strength https://www.explainxkcd.com/wiki/index.php/936:_Password_Strength  
+- Entropy (information theory): https://en.wikipedia.org/wiki/Entropy_(information_theory)  
+- The Information by James Gleick: https://www.goodreads.com/book/show/8701960-the-information  
 
 [1]: https://www.mountaingoatsoftware.com/agile/user-stories "User Stories"
 [2]: https://www.scaledagileframework.com/story/ "Story - Scaled Agile Framework"
