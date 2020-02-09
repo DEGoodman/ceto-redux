@@ -114,6 +114,14 @@ header nav ul.main li a:focus {
     text-decoration: none;
     border-bottom: none;
 }
+header nav ul.social {
+    float: right;
+}
+header nav ul.social li {
+    float: right;
+    font-size: 100%;
+    margin: 0px 10px;
+}
 
 code,
 pre {
@@ -216,4 +224,9 @@ footer ul.social li {
 }
 .affix {
     position: fixed;
+}
+
+small {
+    padding-top: 3px;
+    font-size: 85%;
 }
