@@ -1,0 +1,219 @@
+/* main */
+.clearfix {
+    *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+.clearfix:after {
+    clear: both;
+}
+
+.container {
+    position: relative;
+    max-width: 700px;
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: left;
+    padding: 80px 20px 50px 20px;
+}
+a {
+    color: #ff6633;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -ms-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    border-bottom: 1px solid transparent;
+}
+a:hover,
+a:focus {
+    color: #FFD1C2;
+    text-decoration: none;
+    border-bottom: 1px solid #FFD1C2;
+}
+header {
+    /*position: fixed;*/
+    background: rgba(255, 255, 255, 0.9);
+    padding: 10px 15px 10px 15px;
+    z-index: 10000;
+    display: block;
+    text-align: center;
+    *zoom: 1;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 0px 10px rgba(128, 128, 128, 0.25);
+    -moz-box-shadow: 0 0px 10px rgba(128, 128, 128, 0.25);
+    box-shadow: 0 0px 10px rgba(128, 128, 128, 0.25);
+}
+header:before,
+header:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+header:after {
+    clear: both;
+}
+header nav {
+    *zoom: 1;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+header nav:before,
+header nav:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+header nav:after {
+    clear: both;
+}
+header nav ul {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+}
+header nav ul.main {
+    float: left;
+}
+header nav ul li {
+    display: inline-block;
+    margin: 0px 5px;
+}
+header nav ul li a {
+    line-height: 30px;
+    border-bottom: none;
+}
+header nav ul li a:hover,
+header nav ul li a:focus {
+    text-decoration: none;
+    border-bottom: none;
+}
+header nav ul.main li {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
+header nav ul.main li a {
+    border-bottom: none;
+    font-weight: bold;
+}
+header nav ul.main li a:hover,
+header nav ul.main li a:focus {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+code,
+pre {
+    /*display: inline-block;*/
+    /*overflow: auto;*/
+    padding: 0 3px 2px;
+    /*width: 700px;*/
+    font-family: Consolas, Inconsolas, "Courier New", monospace;
+    font-size: 14px;
+    color: #333333;
+    background-color: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    white-space: pre-wrap;      /* CSS3 */   
+    white-space: -moz-pre-wrap; /* Firefox */    
+    white-space: -pre-wrap;     /* Opera <7 */   
+    white-space: -o-pre-wrap;   /* Opera 7 */    
+    word-wrap: break-word;      /* IE */
+}
+code {
+    padding: 2px 4px;
+    color: #d14;
+}
+pre {
+    display: block;
+    padding: 10px;
+    margin: 20px 0 20px 0;
+    line-height: 150%;
+    white-space: pre;
+    white-space: pre-wrap;
+    /* css-3 */
+
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+}
+pre code {
+    padding: 0;
+    color: inherit;
+    background-color: transparent;
+    border: 0;
+}
+footer {
+    position: relative;
+    padding: 0px 20px;
+    display: block;
+    text-align: left;
+    font-size: 70%;
+    color: #dfdfdf;
+}
+footer a,
+footer a:hover,
+footer a:focus {
+    border-bottom: none;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 0px 5px;
+}
+footer ul li a {
+    line-height: 30px;
+    border-bottom: none;
+}
+footer ul li a:hover,
+footer ul li a:focus {
+    text-decoration: none;
+    border-bottom: none;
+}
+footer ul.social {
+    float: right;
+}
+footer ul.social li {
+    float: right;
+    font-size: 200%;
+    margin: 0px 10px;
+}
+
+.pull-right {
+    float: right;
+}
+.pull-left {
+    float: left;
+}
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
+.invisible {
+    visibility: hidden;
+}
+.affix {
+    position: fixed;
+}

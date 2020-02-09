@@ -66,7 +66,7 @@ a 'd' instead of an 's', it happens!!) By virtue of us being human, we lose inte
 tasks, and blows the door open for mistakes. Or if you're like me, you start down the rabbithole of "hm, this is boring,
 how can I script this...?"
 
-![xkcd: Automation](https://imgs.xkcd.com/comics/automation.png)
+![xkcd: Automation](https://imgs.xkcd.com/comics/automation.png)  
 [xkcd: Automation][3]
 
 (yes, yes, SED or find/replace would make this trivial in many cases, but work with me here!)
@@ -93,8 +93,8 @@ substitution of keys entered, but there are myriad ways to mistype beyond select
 right key in the wrong place, having a modifier key pressed, entering a space, double-pressing the key, not pressing
 hard enough, etc. If the task became even slightly higher in volume or included a slightly larger set of characters to
 enter or a slightly more complicated scenario in which to place characters, the complexity of the change becomes
-massively larger. If even just one of those letters are mistyped, then the system is already twice as complex! (`1^99 +
-1^1 = 2`)
+massively larger. If even just one of those letters are mistyped, then the system is already twice as complex!  
+`1^99 + 1^1 = 2`
 
 Now, this is purely to demonstrate a point. There is a whole fractal world of math and theory you can dive into,
 maybe som will make it to a blog post on another day. I will include some references at the end. If you are at all
@@ -105,7 +105,7 @@ Well, since I'm already aboard the XKCD train, it's hard to have a conversation 
 without referencing the seminal XKCD comic on password strength as it nicely sums up what it is I'm trying to
 communicate:
 
-![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
+![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png)  
 [xkcd: Password Strength][6]
 
 
@@ -120,7 +120,7 @@ incredible video on creating a combination lock in Mario Maker 2 that discusses 
 is more relevant for the discussion on "complexity" rather than human error and Jira tickets, I still highly
 recommend watching the whole vid, it's great!
 
-[![Is it Possible to Upload a Mathematically Impossible Level in Super Mario Maker 2? by Ceave Gaming](http://img.youtube.com/vi/aSlstPpIW-E/0.jpg)](https://www.youtube.com/watch?v=aSlstPpIW-E "Is it Possible to Upload a Mathematically Impossible Level in Super Mario Maker 2?")
+{{< youtube aSlstPpIW-E >}}
 
 
 # Conclusions
