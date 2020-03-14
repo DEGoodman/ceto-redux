@@ -7,9 +7,8 @@ tags = ["agile"]
 lastmod = "2020-03-13"
 +++
 
-# Complexity and the Art of Story Pointing
 
-This blog assumes readers are familiar with Agile methodology. If you are not, 
+This post assumes readers are familiar with Agile methodology. If you are not, 
 [agilenutshell.com](http://www.agilenutshell.com/) has a pretty decent, brief overview.
 
 ## The Murky Waters of Consensus
