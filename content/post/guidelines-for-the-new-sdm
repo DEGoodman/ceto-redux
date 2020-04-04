@@ -1,0 +1,39 @@
++++
+title = "Guidelines for the New Engineering Manager"
+date = "2020-04-04T13:27:37-07:00"
+author = "Erik Goodman"
+categories = ["Software"]
+tags = ["leadership"]
+lastmod = "2020-03-13"
+draft = true
++++
+
+# Great, I just got promoted! ...Now What?
+
+
+# Is It Really a Promotion?
+
+# So What Does an Engineering Manager Actually _Do_?
+
+## Handles communication overhead
+so devs don't have to!
+
+## Secret: Different Things at Different Times
+Depends on what the team needs. My first dev team was one I got to build myself and hire the people I wanted, and in that role I was largely responsible for technical guidance, project management, creating all intenal processes, and evangelizing my philosophy. My next team was in chaos and turmoil. Before they could be effective they needed stability, trust, and guidance. After the situation stabilized my role chanegd again to pushing the develoeprs out of their comfort zone and at the same time I got much more heavily involved in removing myself from the day-to-day engineering processes (they all knew what needed to be done and how to do it) and instead got more involved in product designa nd development AKA "the bigger picture".
+
+### What other "Engineering Manager" roles are there?
+
+## 5 Functions of an Engineering Manager
+"The Cathedral and the Bazaar", Eric S. Raymond
+1. To *define goals* and keep everybody pointed in the same direction
+2. To *monitor* and make sure crucial details don't get skipped
+3. To *motivate* people to do boring but necessary drudgework
+4. To *organize* the deployment of people for best prouctivity
+5. To *marshal resources* needed to sustain the project
+
+# Viewing Developers With a Manger's Eye
+- Only touch on this lightly
+- many excellent resources available, add brief summary and links
+
+# So What's the Point of This Post?
+I want to provide a framework by which to think about management. It's easy to get caught up in the day-to-day work of managing a team. This framework can (and should) change over time
